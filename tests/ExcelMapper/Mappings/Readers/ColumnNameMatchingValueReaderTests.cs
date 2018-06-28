@@ -19,3 +19,4 @@ namespace ExcelMapper.Mappings.Readers.Tests
         }
     }
 }
+
